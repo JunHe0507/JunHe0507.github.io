@@ -9,7 +9,6 @@
 This is my personal portfolio and project showcase website built with GitHub Pages.
 
 ## Featured Projects
-- [Project Name](https://github.com/JunHe0507/project-name) — Brief description
 - [Course Repository](https://github.com/JunHe0507/11501_CI001) — CI001 Course assignments
 
 ## Contact
