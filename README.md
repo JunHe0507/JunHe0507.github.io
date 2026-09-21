@@ -3,7 +3,7 @@
 ## About Me
 - **Name**: 何達俊
 - **Email**: s1151537@mail.yzu.edu.tw
-- **GitHub**: [[@username](https://github.com/<username>)](https://github.com/JunHe0507)
+- **GitHub**: https://github.com/JunHe0507
 
 ## About This Site
 This is my personal portfolio and project showcase website built with GitHub Pages.
